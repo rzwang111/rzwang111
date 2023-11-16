@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ Graduate Student, supervisored by @Huanle Zhang
+✨ Graduate Student, supervisored by @huanlezhang1342
 
 🔬 I'm working on Cross Modal Generation.
 
