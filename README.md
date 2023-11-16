@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+✨ Graduate Student, supervisored by @huanlezhang1342
+🔬 I'm working on Cross Modal Generation.
+
 <!--
 **rzwang111/rzwang111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
