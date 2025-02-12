@@ -1,5 +1,6 @@
 ### Hi there 👋
-✨ Graduate Studen
+✨ Graduate Student
+
 🌱 Thrive & Survive!
 
 <!--
